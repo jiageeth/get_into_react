@@ -1,0 +1,33 @@
+/* Apply font */
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: #f5f5f5;
+}
+
+/* Main container */
+.superleague-container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Heading style */
+.head {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Image container */
+.first-cont {
+    display: inline-block;
+    margin: 10px;
+}
+
+/* Image styling */
+.first-cont img {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
